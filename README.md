@@ -76,3 +76,7 @@ Publish salah satu payload berikut ke topic `tandon/pompa/cmd`:
 ## 👤 Author
 
 Dikembangkan oleh **Syaepuddin** bersama tim (Kelompok Anomali).
+
+## 📷 Hak Cipta & Lisensi
+
+© 2026 Sypdn. Hak Cipta Dilindungi Undang-Undang.
